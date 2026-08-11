@@ -1,78 +1,98 @@
 <div align="center">
 
-# ˚✧ Welcome to my Neural Workshop ✧˚
+# 🪐 ✧ Welcome to my Cosmic Observatorium ✧ 🌌
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o0eTFmY3Rncm8yNWVpYTFvYjlsZHRxNHd3YWxidmsxcTZscG8xdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbYj3YlfDw7x4y6F55/giphy.gif" width="300px" />
+<!-- Floating Astronaut Space GIF -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNmMm9pMWowMjMxajFpNDZ0a2NmYm96dXlxZDRzM2JtOTF0ZzMzcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3og0IFrHkIglEOg8Ba/giphy.gif" width="420px" style="border-radius: 14px;" />
 
-<br/>
+<br/><br/>
 
-```text
-    ╭───────────────────────────────────────────────╮
-    │  "training models & dreaming in neural nets"  │
-    │  divyanshi.sh --mode=curious --fuel=matcha    │
-    ╰───────────────────────────────────────────────╯
-```
-
-<!-- Aesthetic Pastel Badges -->
-<a href="https://linkedin.com/in/divyanshi-mishra-476506327">
-  <img src="https://img.shields.io/badge/LinkedIn-D4A373?style=for-the-badge&logo=linkedin&logoColor=white" />
+<!-- Badges -->
+<a href="https://www.linkedin.com/in/divyanshi-mishra-476506327/">
+  <img src="https://img.shields.io/badge/LinkedIn-432C7A?style=for-the-badge&logo=linkedin&logoColor=FF8FAB" />
 </a>
 <a href="mailto:erdivyanshim@gmail.com">
-  <img src="https://img.shields.io/badge/Email-CCD5AE?style=for-the-badge&logo=gmail&logoColor=333333" />
+  <img src="https://img.shields.io/badge/Email-2B1B47?style=for-the-badge&logo=gmail&logoColor=FFC8DD" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=divyanshim27&style=for-the-badge&color=E9EDC9" />
+<a href="https://substack.com/@divyanshi277535">
+  <img src="https://img.shields.io/badge/Substack-FF70A6?style=for-the-badge&logo=substack&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=divyanshim27&style=for-the-badge&color=8B5CF6" />
 
 </div>
 
 ---
 
-### 🍵 `whoami --verbose`
+### 🛸 `whoami --verbose` :: Who is Divyanshi?
+
+```text
+At the intersection of deep tech, product strategy, and visual storytelling.
+
+✦ Business Analyst & Tech Strategist — Translating complex AI architectures into actionable business models, product roadmaps, and market value.
+✦ Visual Creator & Video Editor — Leveraging motion design suites, editing pipelines, and creator tools to produce high-impact visual narratives.
+✦ AI & Open Source Contributor — Exploring autonomous multi-agent systems, persistent cognitive memory, and open-source tooling.
+```
+
+---
+
+### 🏆 Cosmic Achievements & Accolades
 
 ```yaml
-Name:             Divyanshi Mishra
-Role:             AI / ML Enthusiast & Explorer
-Base:             Chennai, Tamil Nadu
-Current Quest:    Engineering Autonomous AI Agents & Digital Twins
-Philosophy:       "If it can be automated or modeled, it will be."
+Open Source:      GSSoC (GirlScript Summer of Code) Contributor
+Global Rank:      Rank #416
+Specialization:   Open Source Tooling, Agentic Workflows & System Architecture
 ```
 
 ---
 
-### 📂 `ls -laR ~/craft/`
+### 🌌 Orbital Expeditions & Deployments
 
-```bash
-/home/divyanshi/craft:
-drwxr-xr-x  ai-and-agents/
-│   ├── [iloveAgents]         # Community-driven agentic architectures
-│   └── [Waggle-mcp]          # Memory layer integration for AI agents
-│
-drwxr-xr-x  healthcare-ai/
-│   └── [guardian-twin]       # Patient-centric digital health telemetry twin
-│
-drwxr-xr-x  algorithm-arena/
-│   └── [AI-Clash-Algorithms] # Strategic showdowns: BFS vs Minimax Alpha-Beta
-│
-└── ☕ core-stack/
-    └── Python · PyTorch · FastAPIs · Java · Vector Stores
+| Orbit / Project | Focus Area | Tech Stack |
+| :--- | :--- | :--- |
+| 🤖 [**Waggle-mcp**](https://github.com/divyanshim27/Waggle-mcp) | Memory constellations & MCP agent integration | Python, MCP, Vector Stores |
+| 🧬 [**guardian-twin**](https://github.com/divyanshim27/guardian-twin) | Patient-centric digital health telemetry twin | PyTorch, Deep Learning, Time-Series |
+| ⚔️ [**AI-Clash-Algorithms**](https://github.com/divyanshim27/AI-Clash-Algorithms) | Strategic showdowns: BFS vs Minimax Alpha-Beta | Python, Heuristics, Game Trees |
+| 🌌 [**iloveAgents**](https://github.com/divyanshim27/iloveAgents) | Multi-agent architectures & autonomous flows | Agentic Workflows, LangChain |
+
+---
+
+### 🪐 Propulsion Core & Tooling
+
+```text
+✦ Business & Strategy  ::  Business Analysis · Market Research · Product Strategy · Roadmapping
+✦ Creative & Visual    ::  Video Editing Suites · Motion Design · Visual Storytelling · Creator Tools
+✦ Tech & Intelligence  ::  Python · PyTorch · Agentic Workflows (MCP) · REST APIs · Vector Databases
 ```
 
 ---
 
-### ⏳ `top -o %MEM`
+### 📡 `orbital-telemetry --active`
 
-| Task PID | Process / Curiosity | State | System Load |
+| Sector ID | Mission / Probe | Frequency | Warp Factor |
 | :--- | :--- | :--- | :--- |
-| `#MCP-01` | **MCP Memory Layers for Agents** | `RUNNING` | `████████░░` 95% |
-| `#TWN-02` | **Wearable Telemetry Health Twins**| `PROCESSING` | `███████░░░` 85% |
-| `#OSS-03` | **Open Source & Community Tooling**| `ACTIVE` | `██████░░░░` 80% |
+| `✦ SAT-01` | **MCP Memory Layers for Agents** | `TRANSMITTING` | `████████░░` 95% |
+| `✦ SAT-02` | **Wearable Telemetry Health Twins**| `ANALYZING`    | `███████░░░` 85% |
+| `✦ SAT-03` | **Visual Media & Strategy Logs**   | `EXPLORING`    | `██████░░░░` 80% |
 
 ---
 
-<div align="center">
+### 📖 Transmissions from my Substack
 
-### 📊 System Diagnostics
+<table>
+  <tr>
+    <td width="90" align="center" valign="middle">
+      <a href="https://substack.com/@divyanshi277535">
+        <img src="https://github.com/user-attachments/assets/1bd067bd-a181-4ff5-80fb-84cc1c96309a" width="70px" style="border-radius: 10px;" />
+      </a>
+    </td>
+    <td valign="middle">
+      <h4><a href="https://substack.com/@divyanshi277535">✧ Divyanshi's Space - For the Twenties ✧</a></h4>
+      <p>Essays on tech strategy, the business side of AI, creative workflows, and systems breakdown.</p>
+      <a href="https://substack.com/@divyanshi277535">
+        <img src="https://img.shields.io/badge/Read%20Transmissions-FF70A6?style=flat-square&logo=substack&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=divyanshim27&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshim27&layout=compact&theme=nord&hide_border=true&bg_color=0D1117" width="45%" />
-
-</div>
+---
